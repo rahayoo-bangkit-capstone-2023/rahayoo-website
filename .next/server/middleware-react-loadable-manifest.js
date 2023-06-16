@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST={"../components/home/content.tsx -> ../charts/steam":{"id":"../components/home/content.tsx -> ../charts/steam","files":["static/chunks/components_charts_steam_tsx.js"]}}
+self.__REACT_LOADABLE_MANIFEST={"../components/home/content.tsx -> ../charts/steam":{id:5455,files:["static/chunks/6c44d60f.aa920093af56c4ac.js","static/chunks/455.6c004f4be66d260a.js"]}};

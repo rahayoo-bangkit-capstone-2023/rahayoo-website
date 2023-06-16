@@ -15,6 +15,7 @@ COPY . .
 
 # Build the Next.js app
 RUN npm run build
+
 # Expose the port that the app will listen on
 EXPOSE 8080
 
